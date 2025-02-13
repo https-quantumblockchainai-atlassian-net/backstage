@@ -31,10 +31,10 @@
     "postpack": "backstage-cli package postpack"
   },
   "dependencies": {
-    "@backstage/config": "workspace:^",
+    "@backstage/config": "0.1.1",
     "@backstage/errors": "workspace:^",
-    "@backstage/integration": "workspace:^",
-    "@backstage/plugin-scaffolder-node": "workspace:^",
+    "@backstage/integration": "0.1.0",
+    "@backstage/plugin-scaffolder-node": "0.4.5",
     "@gitbeaker/node": "^35.8.0",
     "zod": "^3.21.4"
   },
