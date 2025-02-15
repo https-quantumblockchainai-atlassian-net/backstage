@@ -24,8 +24,8 @@
   "dependencies": {
     "@backstage/catalog-model": "workspace:^",
     "@backstage/core-components": "workspace:^",
-    "@backstage/core-plugin-api": "workspace:^",
-    "@backstage/dev-utils": "workspace:^",
+    "@backstage/core-plugin-api": "0.1.0",
+    "@backstage/dev-utils": "0.1.1",
     "@backstage/plugin-catalog-react": "workspace:^",
     "@backstage/test-utils": "workspace:^",
     "@backstage/theme": "workspace:^",
@@ -42,7 +42,7 @@
   "devDependencies": {
     "@backstage/app-defaults": "workspace:^",
     "@backstage/cli": "workspace:^",
-    "@backstage/dev-utils": "workspace:^",
+    "@backstage/dev-utils": "0.1.1",
     "@backstage/test-utils": "workspace:^",
     "@testing-library/dom": "^8.0.0",
     "@testing-library/jest-dom": "^5.10.1",
