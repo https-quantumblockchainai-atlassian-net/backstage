@@ -35,8 +35,8 @@
   "dependencies": {
     "@backstage/backend-common": "workspace:^",
     "@backstage/backend-tasks": "workspace:^",
-    "@backstage/catalog-client": "workspace:^",
-    "@backstage/catalog-model": "workspace:^",
+    "@backstage/catalog-client": "0.2.0",
+    "@backstage/catalog-model": "0.1.1",
     "@backstage/config": "workspace:^",
     "@backstage/errors": "workspace:^",
     "@backstage/plugin-tech-insights-common": "workspace:^",
