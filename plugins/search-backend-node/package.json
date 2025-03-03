@@ -36,13 +36,13 @@
     "clean": "backstage-cli package clean"
   },
   "dependencies": {
-    "@backstage/backend-common": "workspace:^",
-    "@backstage/backend-plugin-api": "workspace:^",
-    "@backstage/backend-tasks": "workspace:^",
+    "@backstage/backend-common": "0.24.1",
+    "@backstage/backend-plugin-api": "0.1.0",
+    "@backstage/backend-tasks": "0.6.1",
     "@backstage/config": "workspace:^",
     "@backstage/errors": "workspace:^",
     "@backstage/plugin-permission-common": "workspace:^",
-    "@backstage/plugin-search-common": "workspace:^",
+    "@backstage/plugin-search-common": "0.3.1",
     "@types/lunr": "^2.3.3",
     "lodash": "^4.17.21",
     "lunr": "^2.3.9",
@@ -51,7 +51,7 @@
     "winston": "^3.2.1"
   },
   "devDependencies": {
-    "@backstage/backend-common": "workspace:^",
+    "@backstage/backend-common": "0.24.1",
     "@backstage/cli": "workspace:^",
     "@types/ndjson": "^2.0.1"
   },
