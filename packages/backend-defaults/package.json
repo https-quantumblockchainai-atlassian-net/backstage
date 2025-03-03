@@ -32,9 +32,9 @@
     "start": "backstage-cli package start"
   },
   "dependencies": {
-    "@backstage/backend-app-api": "workspace:^",
+    "@backstage/backend-app-api": "0.7.6",
     "@backstage/backend-common": "workspace:^",
-    "@backstage/backend-plugin-api": "workspace:^"
+    "@backstage/backend-plugin-api": "0.6.19"
   },
   "devDependencies": {
     "@backstage/backend-test-utils": "workspace:^",
