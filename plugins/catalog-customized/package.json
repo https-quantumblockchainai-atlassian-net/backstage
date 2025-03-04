@@ -33,7 +33,7 @@
     "clean": "backstage-cli package clean"
   },
   "dependencies": {
-    "@backstage/plugin-catalog": "workspace:^",
+    "@backstage/plugin-catalog": "0.1.1",
     "@backstage/plugin-catalog-react": "workspace:^"
   },
   "devDependencies": {
