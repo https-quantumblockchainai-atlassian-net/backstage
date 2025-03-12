@@ -9,14 +9,14 @@
   "dependencies": {
     "@backstage/app-defaults": "workspace:^",
     "@backstage/catalog-model": "workspace:^",
-    "@backstage/cli": "workspace:^",
+    "@backstage/cli": "0.1.1",
     "@backstage/config": "workspace:^",
     "@backstage/core-app-api": "workspace:^",
-    "@backstage/core-components": "workspace:^",
+    "@backstage/core-components": "0.1.0",
     "@backstage/core-plugin-api": "workspace:^",
-    "@backstage/integration-react": "workspace:^",
+    "@backstage/integration-react": "0.1.1",
     "@backstage/plugin-catalog": "workspace:^",
-    "@backstage/plugin-techdocs": "workspace:^",
+    "@backstage/plugin-techdocs": "0.1.1",
     "@backstage/plugin-techdocs-react": "workspace:^",
     "@backstage/test-utils": "workspace:^",
     "@backstage/theme": "workspace:^",
@@ -29,7 +29,7 @@
     "react-use": "^17.2.4"
   },
   "devDependencies": {
-    "@backstage/cli": "workspace:^",
+    "@backstage/cli": "0.1.1",
     "@testing-library/dom": "^8.0.0",
     "@testing-library/jest-dom": "^5.10.1",
     "@testing-library/react": "^12.1.3",
