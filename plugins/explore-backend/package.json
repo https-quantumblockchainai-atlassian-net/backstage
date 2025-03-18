@@ -25,7 +25,7 @@
     "@backstage/backend-common": "workspace:^",
     "@backstage/config": "workspace:^",
     "@backstage/plugin-explore-common": "workspace:^",
-    "@backstage/plugin-search-backend-module-explore": "workspace:^",
+    "@backstage/plugin-search-backend-module-explore": "0.3.0",
     "@backstage/plugin-search-common": "workspace:^",
     "@backstage/types": "workspace:^",
     "@types/express": "*",
