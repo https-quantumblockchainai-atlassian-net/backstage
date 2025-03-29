@@ -46,13 +46,13 @@
   },
   "dependencies": {
     "@azure/identity": "^3.2.1",
-    "@backstage/backend-common": "workspace:^",
+    "@backstage/backend-common": "0.24.1",
     "@backstage/backend-plugin-api": "workspace:^",
     "@backstage/backend-tasks": "workspace:^",
-    "@backstage/catalog-model": "workspace:^",
+    "@backstage/catalog-model": "0.1.1",
     "@backstage/config": "workspace:^",
-    "@backstage/plugin-catalog-common": "workspace:^",
-    "@backstage/plugin-catalog-node": "workspace:^",
+    "@backstage/plugin-catalog-common": "0.1.0",
+    "@backstage/plugin-catalog-node": "1.0.0",
     "@microsoft/microsoft-graph-types": "^2.6.0",
     "@types/node-fetch": "^2.5.12",
     "lodash": "^4.17.21",
@@ -63,7 +63,7 @@
     "winston": "^3.2.1"
   },
   "devDependencies": {
-    "@backstage/backend-common": "workspace:^",
+    "@backstage/backend-common": "0.24.1",
     "@backstage/backend-test-utils": "workspace:^",
     "@backstage/cli": "workspace:^",
     "@types/lodash": "^4.14.151",
