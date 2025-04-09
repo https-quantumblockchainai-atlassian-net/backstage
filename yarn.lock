@@ -4670,7 +4670,7 @@ __metadata:
     "@backstage/errors": "workspace:^"
     "@backstage/plugin-auth-node": "workspace:^"
     "@backstage/types": "workspace:^"
-    "@davidzemon/passport-okta-oauth": ^0.0.5
+    "@davidzemon/passport-okta-oauth": ^0.0.6
     "@google-cloud/firestore": ^6.0.0
     "@types/body-parser": ^1.19.0
     "@types/cookie-parser": ^1.4.2
@@ -10177,15 +10177,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@davidzemon/passport-okta-oauth@npm:^0.0.5":
-  version: 0.0.5
-  resolution: "@davidzemon/passport-okta-oauth@npm:0.0.5"
+"@davidzemon/passport-okta-oauth@npm:^0.0.6":
+  version: 0.0.6
+  resolution: "@davidzemon/passport-okta-oauth@npm:0.0.6"
   dependencies:
     "@types/passport-oauth2": ^1.4.11
     passport-oauth2: ^1.6.1
     pkginfo: ^0.4.1
     uid2: ^1.0.0
-  checksum: 0bd7c33ffd34a7fed4c6a43704792817b8ea6d0783060c32a55619d50b05c79db6f0a8e23b15327a4c7ce0cd8ea2d7486f320eebae3d4ca73e36baa415802ec4
+  checksum: 8d41168a44cceee926bbd641ab21bdd5788bc6d72b966f7de5f270bf129d8f4f370d345ce9bda8d7c58762aec7e4d16f585c1b4df302ede7693edfc1f4ce9be6
   languageName: node
   linkType: hard
 
