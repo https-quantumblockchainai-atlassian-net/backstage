@@ -39,7 +39,7 @@
     "@backstage/plugin-kubernetes-backend": "workspace:^",
     "@backstage/plugin-lighthouse-backend": "workspace:^",
     "@backstage/plugin-linguist-backend": "workspace:^",
-    "@backstage/plugin-permission-backend": "workspace:^",
+    "@backstage/plugin-permission-backend": "0.6.0",
     "@backstage/plugin-permission-common": "workspace:^",
     "@backstage/plugin-permission-node": "workspace:^",
     "@backstage/plugin-scaffolder-backend": "workspace:^",
