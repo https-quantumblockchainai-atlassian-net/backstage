@@ -32,8 +32,8 @@
     "clean": "backstage-cli package clean"
   },
   "dependencies": {
-    "@backstage/backend-common": "workspace:^",
-    "@backstage/backend-tasks": "workspace:^",
+    "@backstage/backend-common": "0.24.1",
+    "@backstage/backend-tasks": "0.6.1",
     "@backstage/config": "workspace:^",
     "@backstage/plugin-tech-insights-common": "workspace:^",
     "@backstage/types": "workspace:^",
