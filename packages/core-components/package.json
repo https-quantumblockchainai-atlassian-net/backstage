@@ -32,13 +32,13 @@
     "start": "backstage-cli package start"
   },
   "dependencies": {
-    "@backstage/config": "workspace:^",
-    "@backstage/core-plugin-api": "workspace:^",
+    "@backstage/config": "0.1.1",
+    "@backstage/core-plugin-api": "0.1.0",
     "@backstage/errors": "workspace:^",
-    "@backstage/theme": "workspace:^",
-    "@backstage/version-bridge": "workspace:^",
+    "@backstage/theme": "0.1.1",
+    "@backstage/version-bridge": "0.1.0",
     "@date-io/core": "^1.3.13",
-    "@material-table/core": "^3.1.0",
+    "@material-table/core": "^4.3.45",
     "@material-ui/core": "^4.12.2",
     "@material-ui/icons": "^4.9.1",
     "@material-ui/lab": "4.0.0-alpha.61",
