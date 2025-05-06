@@ -35,8 +35,8 @@
   "dependencies": {
     "@backstage/cli-common": "workspace:^",
     "@backstage/config": "workspace:^",
-    "@backstage/errors": "workspace:^",
-    "@backstage/types": "workspace:^",
+    "@backstage/errors": "0.1.1",
+    "@backstage/types": "0.1.1",
     "@types/json-schema": "^7.0.6",
     "ajv": "^8.10.0",
     "chokidar": "^3.5.2",
@@ -49,7 +49,7 @@
     "node-fetch": "^2.6.7",
     "typescript-json-schema": "^0.55.0",
     "yaml": "^2.0.0",
-    "yup": "^0.32.9"
+    "yup": "^1.0.0"
   },
   "devDependencies": {
     "@backstage/backend-test-utils": "workspace:^",
