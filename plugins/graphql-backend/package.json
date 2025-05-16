@@ -36,7 +36,7 @@
     "@apollo/server": "^4.0.0",
     "@backstage/backend-common": "workspace:^",
     "@backstage/config": "workspace:^",
-    "@backstage/plugin-catalog-graphql": "workspace:^",
+    "@backstage/plugin-catalog-graphql": "0.1.1",
     "@graphql-tools/schema": "^9.0.0",
     "@types/express": "^4.17.6",
     "express": "^4.17.1",
