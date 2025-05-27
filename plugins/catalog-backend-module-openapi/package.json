@@ -35,7 +35,7 @@
     "@apidevtools/json-schema-ref-parser": "^9.0.6",
     "@backstage/backend-common": "workspace:^",
     "@backstage/catalog-model": "workspace:^",
-    "@backstage/config": "workspace:^",
+    "@backstage/config": "0.1.1",
     "@backstage/integration": "workspace:^",
     "@backstage/plugin-catalog-backend": "workspace:^",
     "@backstage/plugin-catalog-common": "workspace:^",
