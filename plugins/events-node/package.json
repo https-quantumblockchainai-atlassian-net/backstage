@@ -36,7 +36,7 @@
     "postpack": "backstage-cli package postpack"
   },
   "dependencies": {
-    "@backstage/backend-plugin-api": "workspace:^"
+    "@backstage/backend-plugin-api": "0.6.19"
   },
   "devDependencies": {
     "@backstage/cli": "workspace:^"
