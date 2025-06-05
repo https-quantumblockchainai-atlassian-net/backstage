@@ -26,8 +26,8 @@
   "dependencies": {
     "@backstage/backend-plugin-api": "workspace:^",
     "@backstage/catalog-model": "workspace:^",
-    "@backstage/plugin-scaffolder-common": "workspace:^",
-    "@backstage/types": "workspace:^",
+    "@backstage/plugin-scaffolder-common": "0.1.0",
+    "@backstage/types": "0.1.1",
     "jsonschema": "^1.2.6",
     "winston": "^3.2.1",
     "zod": "^3.21.4",
