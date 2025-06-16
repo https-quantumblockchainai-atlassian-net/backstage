@@ -34,7 +34,7 @@
     "@backstage/integration": "workspace:^",
     "@backstage/plugin-adr-backend": "workspace:^",
     "@backstage/plugin-app-backend": "workspace:^",
-    "@backstage/plugin-auth-backend": "workspace:^",
+    "@backstage/plugin-auth-backend": "0.21.0",
     "@backstage/plugin-auth-node": "workspace:^",
     "@backstage/plugin-azure-devops-backend": "workspace:^",
     "@backstage/plugin-azure-sites-backend": "workspace:^",
