@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "@apollo/explorer": "^2.0.0",
-    "@backstage/core-components": "workspace:^",
+    "@backstage/core-components": "0.1.0",
     "@backstage/core-plugin-api": "workspace:^",
     "@backstage/theme": "workspace:^",
     "@material-ui/core": "^4.12.2",
