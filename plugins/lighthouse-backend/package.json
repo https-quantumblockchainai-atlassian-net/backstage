@@ -38,7 +38,7 @@
     "url": "https://github.com/backstage/backstage/issues"
   },
   "dependencies": {
-    "@backstage/backend-common": "workspace:^",
+    "@backstage/backend-common": "0.24.1",
     "@backstage/backend-plugin-api": "workspace:^",
     "@backstage/backend-tasks": "workspace:^",
     "@backstage/catalog-client": "workspace:^",
