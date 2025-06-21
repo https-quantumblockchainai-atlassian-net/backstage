@@ -43,7 +43,7 @@
   },
   "dependencies": {
     "@backstage/backend-app-api": "workspace:^",
-    "@backstage/backend-common": "workspace:^",
+    "@backstage/backend-common": "0.24.1",
     "@backstage/backend-plugin-api": "workspace:^",
     "@backstage/config": "workspace:^",
     "@backstage/plugin-auth-node": "workspace:^",
@@ -54,7 +54,7 @@
     "msw": "^1.0.0",
     "mysql2": "^2.2.5",
     "pg": "^8.3.0",
-    "testcontainers": "^8.1.2",
+    "testcontainers": "^10.22.0",
     "uuid": "^8.0.0"
   },
   "devDependencies": {
