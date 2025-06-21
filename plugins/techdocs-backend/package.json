@@ -48,7 +48,7 @@
     "clean": "backstage-cli package clean"
   },
   "dependencies": {
-    "@backstage/backend-common": "workspace:^",
+    "@backstage/backend-common": "0.24.1",
     "@backstage/backend-plugin-api": "workspace:^",
     "@backstage/catalog-client": "workspace:^",
     "@backstage/catalog-model": "workspace:^",
@@ -57,11 +57,11 @@
     "@backstage/integration": "workspace:^",
     "@backstage/plugin-catalog-common": "workspace:^",
     "@backstage/plugin-permission-common": "workspace:^",
-    "@backstage/plugin-search-backend-module-techdocs": "workspace:^",
+    "@backstage/plugin-search-backend-module-techdocs": "0.1.0",
     "@backstage/plugin-search-common": "workspace:^",
-    "@backstage/plugin-techdocs-node": "workspace:^",
+    "@backstage/plugin-techdocs-node": "1.11.2",
     "@types/express": "^4.17.6",
-    "dockerode": "^3.3.1",
+    "dockerode": "^4.0.5",
     "express": "^4.17.1",
     "express-promise-router": "^4.1.0",
     "fs-extra": "10.1.0",
