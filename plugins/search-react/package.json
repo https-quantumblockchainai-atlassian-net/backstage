@@ -31,7 +31,7 @@
     "start": "backstage-cli package start"
   },
   "dependencies": {
-    "@backstage/core-components": "workspace:^",
+    "@backstage/core-components": "0.1.0",
     "@backstage/core-plugin-api": "workspace:^",
     "@backstage/plugin-search-common": "workspace:^",
     "@backstage/theme": "workspace:^",
