@@ -29,8 +29,8 @@
     "start": "backstage-cli package start"
   },
   "dependencies": {
-    "@backstage/backend-common": "workspace:^",
-    "@backstage/backend-openapi-utils": "workspace:^",
+    "@backstage/backend-common": "0.24.1",
+    "@backstage/backend-openapi-utils": "0.0.1",
     "@backstage/backend-plugin-api": "workspace:^",
     "@backstage/catalog-client": "workspace:^",
     "@backstage/catalog-model": "workspace:^",
