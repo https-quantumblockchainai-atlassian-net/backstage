@@ -37,7 +37,7 @@
     "@backstage/core-components": "workspace:^",
     "@backstage/core-plugin-api": "workspace:^",
     "@backstage/plugin-catalog-react": "workspace:^",
-    "@backstage/plugin-cost-insights-common": "workspace:^",
+    "@backstage/plugin-cost-insights-common": "0.1.0",
     "@backstage/theme": "workspace:^",
     "@material-ui/core": "^4.12.2",
     "@material-ui/icons": "^4.9.1",
@@ -51,7 +51,7 @@
     "pluralize": "^8.0.0",
     "qs": "^6.9.4",
     "react-use": "^17.2.4",
-    "recharts": "^2.5.0",
+    "recharts": "^3.0.0",
     "regression": "^2.0.1",
     "yup": "^0.32.9"
   },
