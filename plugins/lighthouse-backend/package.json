@@ -44,8 +44,8 @@
     "@backstage/catalog-client": "workspace:^",
     "@backstage/catalog-model": "workspace:^",
     "@backstage/config": "workspace:^",
-    "@backstage/plugin-catalog-node": "workspace:^",
-    "@backstage/plugin-lighthouse-common": "workspace:^",
+    "@backstage/plugin-catalog-node": "1.0.0",
+    "@backstage/plugin-lighthouse-common": "0.1.0",
     "@backstage/types": "workspace:^",
     "winston": "^3.2.1"
   },
