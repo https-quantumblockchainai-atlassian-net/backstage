@@ -42,7 +42,7 @@
     "start": "backstage-cli package start"
   },
   "dependencies": {
-    "@backstage/backend-app-api": "workspace:^",
+    "@backstage/backend-app-api": "0.1.0",
     "@backstage/backend-common": "workspace:^",
     "@backstage/backend-plugin-api": "workspace:^",
     "@backstage/config": "workspace:^",
