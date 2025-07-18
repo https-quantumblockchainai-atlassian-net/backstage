@@ -22,12 +22,12 @@
     "postpack": "backstage-cli package postpack"
   },
   "dependencies": {
-    "@backstage/backend-common": "workspace:^",
-    "@backstage/config": "workspace:^",
+    "@backstage/backend-common": "0.24.1",
+    "@backstage/config": "0.1.1",
     "@backstage/plugin-explore-common": "workspace:^",
-    "@backstage/plugin-search-backend-module-explore": "workspace:^",
-    "@backstage/plugin-search-common": "workspace:^",
-    "@backstage/types": "workspace:^",
+    "@backstage/plugin-search-backend-module-explore": "0.2.0",
+    "@backstage/plugin-search-common": "0.3.1",
+    "@backstage/types": "0.1.1",
     "@types/express": "*",
     "express": "^4.18.1",
     "express-promise-router": "^4.1.0",
