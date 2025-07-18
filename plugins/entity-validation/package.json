@@ -34,7 +34,7 @@
     "@backstage/errors": "workspace:^",
     "@backstage/plugin-catalog-common": "workspace:^",
     "@backstage/plugin-catalog-react": "workspace:^",
-    "@backstage/theme": "workspace:^",
+    "@backstage/theme": "0.1.1",
     "@codemirror/language": "^6.0.0",
     "@codemirror/legacy-modes": "^6.1.0",
     "@codemirror/view": "^6.0.0",
