@@ -36,7 +36,7 @@
     "@backstage/errors": "workspace:^",
     "@backstage/integration": "workspace:^",
     "@backstage/plugin-adr-common": "workspace:^",
-    "@backstage/plugin-search-common": "workspace:^",
+    "@backstage/plugin-search-common": "0.3.1",
     "@types/express": "^4.17.6",
     "express": "^4.17.1",
     "express-promise-router": "^4.1.0",
