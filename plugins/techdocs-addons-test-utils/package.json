@@ -38,7 +38,7 @@
     "@backstage/integration-react": "workspace:^",
     "@backstage/plugin-catalog": "workspace:^",
     "@backstage/plugin-search-react": "workspace:^",
-    "@backstage/plugin-techdocs": "workspace:^",
+    "@backstage/plugin-techdocs": "0.1.1",
     "@backstage/plugin-techdocs-react": "workspace:^",
     "@backstage/test-utils": "workspace:^",
     "@backstage/theme": "workspace:^",
