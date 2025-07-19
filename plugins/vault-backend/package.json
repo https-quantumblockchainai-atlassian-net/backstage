@@ -33,12 +33,12 @@
     "postpack": "backstage-cli package postpack"
   },
   "dependencies": {
-    "@backstage/backend-common": "workspace:^",
-    "@backstage/backend-tasks": "workspace:^",
+    "@backstage/backend-common": "0.24.1",
+    "@backstage/backend-tasks": "0.6.1",
     "@backstage/config": "workspace:^",
     "@backstage/errors": "workspace:^",
     "@types/express": "*",
-    "compression": "^1.7.4",
+    "compression": "^1.8.1",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "express-promise-router": "^4.1.0",
