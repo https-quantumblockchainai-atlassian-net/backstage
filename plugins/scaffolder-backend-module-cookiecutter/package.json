@@ -26,7 +26,7 @@
     "@backstage/backend-common": "workspace:^",
     "@backstage/config": "workspace:^",
     "@backstage/errors": "workspace:^",
-    "@backstage/integration": "workspace:^",
+    "@backstage/integration": "0.1.0",
     "@backstage/plugin-scaffolder-backend": "workspace:^",
     "@backstage/plugin-scaffolder-node": "workspace:^",
     "@backstage/types": "workspace:^",
