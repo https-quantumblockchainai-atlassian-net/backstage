@@ -46,7 +46,7 @@
     "@aws-sdk/types": "^3.347.0",
     "@azure/identity": "^3.2.1",
     "@azure/storage-blob": "^12.5.0",
-    "@backstage/backend-common": "workspace:^",
+    "@backstage/backend-common": "0.24.1",
     "@backstage/catalog-model": "workspace:^",
     "@backstage/config": "workspace:^",
     "@backstage/errors": "workspace:^",
