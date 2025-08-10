@@ -51,7 +51,7 @@
     "@backstage/catalog-model": "workspace:^",
     "@backstage/config": "workspace:^",
     "@backstage/errors": "workspace:^",
-    "@backstage/plugin-catalog-backend": "workspace:^",
+    "@backstage/plugin-catalog-backend": "2.0.0",
     "@backstage/plugin-catalog-node": "workspace:^",
     "@backstage/plugin-events-node": "workspace:^",
     "@backstage/plugin-permission-common": "workspace:^",
