@@ -37,7 +37,7 @@
     "@backstage/catalog-model": "workspace:^",
     "@backstage/config": "workspace:^",
     "@backstage/errors": "workspace:^",
-    "@backstage/plugin-auth-node": "workspace:^",
+    "@backstage/plugin-auth-node": "0.1.0",
     "@backstage/types": "workspace:^",
     "@davidzemon/passport-okta-oauth": "^0.0.5",
     "@google-cloud/firestore": "^6.0.0",
