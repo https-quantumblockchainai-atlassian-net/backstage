@@ -27,7 +27,7 @@
     "@backstage/catalog-client": "workspace:^",
     "@backstage/catalog-model": "workspace:^",
     "@backstage/config": "workspace:^",
-    "@backstage/plugin-auth-node": "workspace:^",
+    "@backstage/plugin-auth-node": "0.1.0",
     "@backstage/plugin-entity-feedback-common": "workspace:^",
     "@types/express": "*",
     "express": "^4.18.1",
