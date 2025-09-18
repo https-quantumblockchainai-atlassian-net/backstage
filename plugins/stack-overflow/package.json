@@ -22,12 +22,12 @@
     "clean": "backstage-cli package clean"
   },
   "dependencies": {
-    "@backstage/config": "workspace:^",
+    "@backstage/config": "0.1.1",
     "@backstage/core-components": "workspace:^",
-    "@backstage/core-plugin-api": "workspace:^",
+    "@backstage/core-plugin-api": "0.1.0",
     "@backstage/plugin-home-react": "workspace:^",
     "@backstage/plugin-search-common": "workspace:^",
-    "@backstage/plugin-search-react": "workspace:^",
+    "@backstage/plugin-search-react": "0.1.0",
     "@backstage/theme": "workspace:^",
     "@material-ui/core": "^4.12.2",
     "@material-ui/icons": "^4.9.1",
