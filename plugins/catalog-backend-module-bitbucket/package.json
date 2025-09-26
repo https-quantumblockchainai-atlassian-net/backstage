@@ -33,14 +33,14 @@
     "start": "backstage-cli package start"
   },
   "dependencies": {
-    "@backstage/backend-common": "workspace:^",
-    "@backstage/catalog-model": "workspace:^",
-    "@backstage/config": "workspace:^",
-    "@backstage/errors": "workspace:^",
-    "@backstage/integration": "workspace:^",
-    "@backstage/plugin-bitbucket-cloud-common": "workspace:^",
-    "@backstage/plugin-catalog-node": "workspace:^",
-    "@backstage/types": "workspace:^",
+    "@backstage/backend-common": "0.24.1",
+    "@backstage/catalog-model": "0.1.1",
+    "@backstage/config": "0.1.1",
+    "@backstage/errors": "0.1.1",
+    "@backstage/integration": "0.1.0",
+    "@backstage/plugin-bitbucket-cloud-common": "0.1.0",
+    "@backstage/plugin-catalog-node": "1.0.0",
+    "@backstage/types": "0.1.1",
     "lodash": "^4.17.21",
     "node-fetch": "^2.6.7",
     "winston": "^3.2.1"
