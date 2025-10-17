@@ -37,7 +37,7 @@
     "@backstage/errors": "workspace:^",
     "@manypkg/get-packages": "^1.1.3",
     "@microsoft/api-documenter": "^7.19.27",
-    "@microsoft/api-extractor": "^7.33.7",
+    "@microsoft/api-extractor": "^7.43.8",
     "@stoplight/spectral-core": "^1.18.0",
     "@stoplight/spectral-formatters": "^1.1.0",
     "@stoplight/spectral-functions": "^1.7.2",
