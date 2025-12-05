@@ -22,12 +22,12 @@
     "postpack": "backstage-cli package postpack"
   },
   "dependencies": {
-    "@backstage/backend-common": "workspace:^",
+    "@backstage/backend-common": "0.24.1",
     "@backstage/backend-plugin-api": "workspace:^",
-    "@backstage/catalog-client": "workspace:^",
-    "@backstage/catalog-model": "workspace:^",
+    "@backstage/catalog-client": "0.2.0",
+    "@backstage/catalog-model": "0.1.1",
     "@backstage/config": "workspace:^",
-    "@backstage/plugin-auth-node": "workspace:^",
+    "@backstage/plugin-auth-node": "0.5.0",
     "@backstage/plugin-entity-feedback-common": "workspace:^",
     "@types/express": "*",
     "express": "^4.18.1",
