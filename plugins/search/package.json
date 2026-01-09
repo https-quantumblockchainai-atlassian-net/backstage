@@ -39,7 +39,7 @@
     "@backstage/errors": "workspace:^",
     "@backstage/plugin-catalog-react": "workspace:^",
     "@backstage/plugin-search-common": "workspace:^",
-    "@backstage/plugin-search-react": "workspace:^",
+    "@backstage/plugin-search-react": "0.1.0",
     "@backstage/theme": "workspace:^",
     "@backstage/types": "workspace:^",
     "@backstage/version-bridge": "workspace:^",
