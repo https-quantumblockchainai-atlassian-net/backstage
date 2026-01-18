@@ -26,7 +26,7 @@
     "@backstage/plugin-scaffolder-node": "workspace:^",
     "@backstage/types": "workspace:^",
     "winston": "^3.2.1",
-    "yeoman-environment": "^3.9.1"
+    "yeoman-environment": "^4.0.0"
   },
   "devDependencies": {
     "@backstage/backend-common": "workspace:^",
