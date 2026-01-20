@@ -31,7 +31,7 @@
     "@backstage/core-components": "workspace:^",
     "@backstage/core-plugin-api": "workspace:^",
     "@backstage/errors": "workspace:^",
-    "@backstage/plugin-devtools-common": "workspace:^",
+    "@backstage/plugin-devtools-common": "0.1.0",
     "@backstage/plugin-permission-react": "workspace:^",
     "@backstage/theme": "workspace:^",
     "@backstage/types": "workspace:^",
