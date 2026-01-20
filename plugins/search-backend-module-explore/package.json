@@ -36,13 +36,13 @@
     "clean": "backstage-cli package clean"
   },
   "dependencies": {
-    "@backstage/backend-common": "workspace:^",
+    "@backstage/backend-common": "0.24.1",
     "@backstage/backend-plugin-api": "workspace:^",
     "@backstage/backend-tasks": "workspace:^",
     "@backstage/config": "workspace:^",
     "@backstage/plugin-explore-common": "workspace:^",
-    "@backstage/plugin-search-backend-node": "workspace:^",
-    "@backstage/plugin-search-common": "workspace:^",
+    "@backstage/plugin-search-backend-node": "0.1.2",
+    "@backstage/plugin-search-common": "0.3.1",
     "node-fetch": "^2.6.7",
     "winston": "^3.2.1"
   },
