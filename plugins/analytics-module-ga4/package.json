@@ -22,10 +22,10 @@
     "clean": "backstage-cli package clean"
   },
   "dependencies": {
-    "@backstage/config": "workspace:^",
-    "@backstage/core-components": "workspace:^",
-    "@backstage/core-plugin-api": "workspace:^",
-    "@backstage/theme": "workspace:^",
+    "@backstage/config": "0.1.1",
+    "@backstage/core-components": "0.1.0",
+    "@backstage/core-plugin-api": "0.1.0",
+    "@backstage/theme": "0.1.1",
     "react-ga4": "^2.0.0",
     "react-use": "^17.2.4"
   },
