@@ -24,9 +24,9 @@
     "clean": "backstage-cli package clean"
   },
   "dependencies": {
-    "@backstage/backend-common": "workspace:^",
-    "@backstage/backend-plugin-api": "workspace:^",
-    "@backstage/config": "workspace:^",
+    "@backstage/backend-common": "0.25.0",
+    "@backstage/backend-plugin-api": "1.6.1",
+    "@backstage/config": "0.1.1",
     "@types/express": "*",
     "express": "^4.17.1",
     "express-promise-router": "^4.1.0",
