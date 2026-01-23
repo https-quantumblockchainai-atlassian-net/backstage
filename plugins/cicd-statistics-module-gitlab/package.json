@@ -28,8 +28,8 @@
   },
   "dependencies": {
     "@backstage/catalog-model": "workspace:^",
-    "@backstage/core-plugin-api": "workspace:^",
-    "@backstage/plugin-cicd-statistics": "workspace:^",
+    "@backstage/core-plugin-api": "0.1.0",
+    "@backstage/plugin-cicd-statistics": "0.1.0",
     "@gitbeaker/browser": "^35.6.0",
     "@gitbeaker/core": "^35.6.0",
     "luxon": "^3.0.0",
