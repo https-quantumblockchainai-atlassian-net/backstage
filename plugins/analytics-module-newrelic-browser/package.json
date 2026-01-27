@@ -22,9 +22,9 @@
     "postpack": "backstage-cli package postpack"
   },
   "dependencies": {
-    "@backstage/config": "workspace:^",
-    "@backstage/core-components": "workspace:^",
-    "@backstage/core-plugin-api": "workspace:^",
+    "@backstage/config": "0.1.1",
+    "@backstage/core-components": "0.8.6",
+    "@backstage/core-plugin-api": "0.1.0",
     "@newrelic/browser-agent": "^1.236.0",
     "react-use": "^17.2.4"
   },
