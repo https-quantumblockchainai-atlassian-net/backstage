@@ -22,9 +22,9 @@
     "start": "backstage-cli package start"
   },
   "dependencies": {
-    "@backstage/backend-common": "workspace:^",
-    "@backstage/config": "workspace:^",
-    "@backstage/errors": "workspace:^",
+    "@backstage/backend-common": "0.25.0",
+    "@backstage/config": "0.1.1",
+    "@backstage/errors": "0.1.1",
     "@types/express": "*",
     "express": "^4.17.1",
     "jose": "^4.6.0",
