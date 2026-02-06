@@ -33,10 +33,10 @@
     "clean": "backstage-cli package clean"
   },
   "dependencies": {
-    "@backstage/backend-common": "workspace:^",
-    "@backstage/backend-tasks": "workspace:^",
-    "@backstage/catalog-client": "workspace:^",
-    "@backstage/catalog-model": "workspace:^",
+    "@backstage/backend-common": "0.24.1",
+    "@backstage/backend-tasks": "0.6.1",
+    "@backstage/catalog-client": "0.2.0",
+    "@backstage/catalog-model": "0.1.1",
     "@backstage/config": "workspace:^",
     "@backstage/errors": "workspace:^",
     "@backstage/plugin-tech-insights-common": "workspace:^",
