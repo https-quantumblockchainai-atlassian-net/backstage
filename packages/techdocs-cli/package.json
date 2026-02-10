@@ -64,7 +64,7 @@
     "@backstage/catalog-model": "workspace:^",
     "@backstage/cli-common": "workspace:^",
     "@backstage/config": "workspace:^",
-    "@backstage/plugin-techdocs-node": "workspace:^",
+    "@backstage/plugin-techdocs-node": "1.11.2",
     "@types/dockerode": "^3.3.0",
     "commander": "^9.1.0",
     "dockerode": "^3.3.1",
