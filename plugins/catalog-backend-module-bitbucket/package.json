@@ -38,7 +38,7 @@
     "@backstage/config": "workspace:^",
     "@backstage/errors": "workspace:^",
     "@backstage/integration": "workspace:^",
-    "@backstage/plugin-bitbucket-cloud-common": "workspace:^",
+    "@backstage/plugin-bitbucket-cloud-common": "0.1.0",
     "@backstage/plugin-catalog-node": "workspace:^",
     "@backstage/types": "workspace:^",
     "lodash": "^4.17.21",
