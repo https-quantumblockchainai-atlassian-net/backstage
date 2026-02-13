@@ -23,10 +23,10 @@
     "clean": "backstage-cli package clean"
   },
   "dependencies": {
-    "@backstage/catalog-model": "workspace:^",
+    "@backstage/catalog-model": "0.1.1",
     "@backstage/config": "workspace:^",
     "@backstage/core-components": "workspace:^",
-    "@backstage/core-plugin-api": "workspace:^",
+    "@backstage/core-plugin-api": "0.1.0",
     "@backstage/errors": "workspace:^",
     "@backstage/plugin-catalog-react": "workspace:^",
     "@backstage/theme": "workspace:^",
