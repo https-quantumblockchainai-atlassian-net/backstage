@@ -32,10 +32,10 @@
     "start": "backstage-cli package start"
   },
   "dependencies": {
-    "@backstage/backend-common": "workspace:^",
+    "@backstage/backend-common": "0.24.1",
     "@backstage/config": "workspace:^",
-    "@backstage/errors": "workspace:^",
-    "@backstage/types": "workspace:^",
+    "@backstage/errors": "0.1.1",
+    "@backstage/types": "0.1.1",
     "@types/luxon": "^3.0.0",
     "cron": "^2.0.0",
     "knex": "^2.0.0",
