@@ -33,10 +33,10 @@
     "clean": "backstage-cli package clean"
   },
   "dependencies": {
-    "@backstage/backend-common": "workspace:^",
-    "@backstage/backend-tasks": "workspace:^",
-    "@backstage/catalog-client": "workspace:^",
-    "@backstage/catalog-model": "workspace:^",
+    "@backstage/backend-common": "0.24.1",
+    "@backstage/backend-tasks": "0.6.1",
+    "@backstage/catalog-client": "0.2.0",
+    "@backstage/catalog-model": "0.1.1",
     "@backstage/config": "workspace:^",
     "@backstage/errors": "workspace:^",
     "@backstage/plugin-tech-insights-common": "workspace:^",
@@ -44,7 +44,7 @@
     "@backstage/types": "workspace:^",
     "@types/express": "^4.17.6",
     "@types/luxon": "^3.0.0",
-    "express": "^4.17.1",
+    "express": "^4.22.0",
     "express-promise-router": "^4.1.0",
     "knex": "^2.0.0",
     "lodash": "^4.17.21",
