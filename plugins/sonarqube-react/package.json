@@ -40,8 +40,8 @@
     "start": "backstage-cli package start"
   },
   "dependencies": {
-    "@backstage/catalog-model": "workspace:^",
-    "@backstage/core-plugin-api": "workspace:^"
+    "@backstage/catalog-model": "0.1.1",
+    "@backstage/core-plugin-api": "0.1.0"
   },
   "peerDependencies": {
     "react": "^16.13.1 || ^17.0.0",
