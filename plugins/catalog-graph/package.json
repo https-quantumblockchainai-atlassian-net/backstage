@@ -23,11 +23,11 @@
   },
   "dependencies": {
     "@backstage/catalog-client": "workspace:^",
-    "@backstage/catalog-model": "workspace:^",
+    "@backstage/catalog-model": "0.1.1",
     "@backstage/core-components": "workspace:^",
-    "@backstage/core-plugin-api": "workspace:^",
-    "@backstage/plugin-catalog-react": "workspace:^",
-    "@backstage/theme": "workspace:^",
+    "@backstage/core-plugin-api": "0.1.0",
+    "@backstage/plugin-catalog-react": "0.0.1",
+    "@backstage/theme": "0.1.1",
     "@backstage/types": "workspace:^",
     "@material-ui/core": "^4.12.2",
     "@material-ui/icons": "^4.9.1",
@@ -36,7 +36,7 @@
     "classnames": "^2.3.1",
     "lodash": "^4.17.15",
     "p-limit": "^3.1.0",
-    "qs": "^6.9.4",
+    "qs": "^6.14.2",
     "react-use": "^17.2.4"
   },
   "peerDependencies": {
