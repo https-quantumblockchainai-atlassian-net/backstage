@@ -38,9 +38,9 @@
     "url": "https://github.com/backstage/backstage/issues"
   },
   "dependencies": {
-    "@backstage/catalog-model": "workspace:^",
-    "@backstage/plugin-permission-common": "workspace:^",
-    "@kubernetes/client-node": "0.18.1"
+    "@backstage/catalog-model": "0.1.1",
+    "@backstage/plugin-permission-common": "0.1.0",
+    "@kubernetes/client-node": "1.0.0"
   },
   "devDependencies": {
     "@backstage/cli": "workspace:^"
