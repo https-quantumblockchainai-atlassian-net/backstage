@@ -42,13 +42,13 @@
     "@backstage/plugin-permission-backend": "workspace:^",
     "@backstage/plugin-permission-common": "workspace:^",
     "@backstage/plugin-permission-node": "workspace:^",
-    "@backstage/plugin-scaffolder-backend": "workspace:^",
+    "@backstage/plugin-scaffolder-backend": "1.15.0",
     "@backstage/plugin-search-backend": "workspace:^",
     "@backstage/plugin-search-backend-module-catalog": "workspace:^",
     "@backstage/plugin-search-backend-module-explore": "workspace:^",
-    "@backstage/plugin-search-backend-module-techdocs": "workspace:^",
+    "@backstage/plugin-search-backend-module-techdocs": "0.1.0",
     "@backstage/plugin-search-backend-node": "workspace:^",
-    "@backstage/plugin-techdocs-backend": "workspace:^",
+    "@backstage/plugin-techdocs-backend": "0.1.1",
     "@backstage/plugin-todo-backend": "workspace:^"
   },
   "devDependencies": {
