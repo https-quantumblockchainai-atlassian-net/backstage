@@ -37,10 +37,10 @@
   "dependencies": {
     "@aws-sdk/client-sqs": "^3.350.0",
     "@backstage/backend-common": "workspace:^",
-    "@backstage/backend-plugin-api": "workspace:^",
-    "@backstage/backend-tasks": "workspace:^",
+    "@backstage/backend-plugin-api": "0.1.0",
+    "@backstage/backend-tasks": "0.6.1",
     "@backstage/config": "workspace:^",
-    "@backstage/plugin-events-node": "workspace:^",
+    "@backstage/plugin-events-node": "0.1.0",
     "@backstage/types": "workspace:^",
     "luxon": "^3.0.0",
     "winston": "^3.2.1"
