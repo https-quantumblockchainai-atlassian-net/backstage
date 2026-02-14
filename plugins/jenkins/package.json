@@ -33,12 +33,12 @@
     "clean": "backstage-cli package clean"
   },
   "dependencies": {
-    "@backstage/catalog-model": "workspace:^",
+    "@backstage/catalog-model": "0.1.1",
     "@backstage/core-components": "workspace:^",
     "@backstage/core-plugin-api": "workspace:^",
     "@backstage/errors": "workspace:^",
     "@backstage/plugin-catalog-react": "workspace:^",
-    "@backstage/plugin-jenkins-common": "workspace:^",
+    "@backstage/plugin-jenkins-common": "0.1.0",
     "@backstage/theme": "workspace:^",
     "@material-ui/core": "^4.12.2",
     "@material-ui/icons": "^4.9.1",
