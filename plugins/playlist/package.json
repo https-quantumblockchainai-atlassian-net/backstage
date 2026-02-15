@@ -32,7 +32,7 @@
     "@backstage/core-plugin-api": "workspace:^",
     "@backstage/errors": "workspace:^",
     "@backstage/plugin-catalog-common": "workspace:^",
-    "@backstage/plugin-catalog-react": "workspace:^",
+    "@backstage/plugin-catalog-react": "1.0.0",
     "@backstage/plugin-permission-common": "workspace:^",
     "@backstage/plugin-permission-react": "workspace:^",
     "@backstage/plugin-playlist-common": "workspace:^",
