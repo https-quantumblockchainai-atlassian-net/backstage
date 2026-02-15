@@ -36,7 +36,7 @@
     "@backstage/core-components": "workspace:^",
     "@backstage/core-plugin-api": "workspace:^",
     "@backstage/errors": "workspace:^",
-    "@backstage/plugin-catalog-react": "workspace:^",
+    "@backstage/plugin-catalog-react": "1.0.0",
     "@backstage/plugin-explore-common": "workspace:^",
     "@backstage/plugin-explore-react": "workspace:^",
     "@backstage/plugin-search-common": "workspace:^",
