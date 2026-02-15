@@ -17,7 +17,7 @@
     "@backstage/integration-react": "workspace:^",
     "@backstage/plugin-catalog": "workspace:^",
     "@backstage/plugin-techdocs": "workspace:^",
-    "@backstage/plugin-techdocs-react": "workspace:^",
+    "@backstage/plugin-techdocs-react": "0.1.0",
     "@backstage/test-utils": "workspace:^",
     "@backstage/theme": "workspace:^",
     "@material-ui/core": "^4.12.2",
