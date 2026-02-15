@@ -61,7 +61,7 @@
     "@backstage/integration-aws-node": "workspace:^",
     "@backstage/plugin-catalog-common": "workspace:^",
     "@backstage/plugin-catalog-node": "workspace:^",
-    "@backstage/plugin-kubernetes-common": "workspace:^",
+    "@backstage/plugin-kubernetes-common": "0.2.8",
     "@backstage/types": "workspace:^",
     "lodash": "^4.17.21",
     "p-limit": "^3.0.2",
