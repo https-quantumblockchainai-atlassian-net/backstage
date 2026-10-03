@@ -51,7 +51,7 @@
     "@backstage/plugin-catalog-node": "workspace:^",
     "fs-extra": "10.1.0",
     "node-fetch": "^2.6.7",
-    "uuid": "^8.0.0",
+    "uuid": "^11.0.0",
     "winston": "^3.2.1"
   },
   "devDependencies": {
