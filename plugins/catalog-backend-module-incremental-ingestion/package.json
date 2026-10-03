@@ -62,7 +62,7 @@
     "knex": "^2.0.0",
     "lodash": "^4.17.21",
     "luxon": "^3.0.0",
-    "uuid": "^8.3.2",
+    "uuid": "^11.0.0",
     "winston": "^3.2.1"
   },
   "devDependencies": {
